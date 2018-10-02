@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AppServer\AppServer\bin\Release\netcoreapp2.0\AppServer.deps.json
+C:\Users\user\source\repos\AppServer\AppServer\bin\Release\netcoreapp2.0\AppServer.runtimeconfig.json
+C:\Users\user\source\repos\AppServer\AppServer\bin\Release\netcoreapp2.0\AppServer.runtimeconfig.dev.json
+C:\Users\user\source\repos\AppServer\AppServer\bin\Release\netcoreapp2.0\AppServer.dll
+C:\Users\user\source\repos\AppServer\AppServer\bin\Release\netcoreapp2.0\AppServer.pdb
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.AssemblyInfo.cs
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.dll
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.pdb
+C:\Users\user\source\repos\AppServer\AppServer\obj\Release\netcoreapp2.0\AppServer.csprojAssemblyReference.cache
